@@ -1,0 +1,13 @@
+# Python bytecode & cache
+__pycache__/
+*.pyc
+
+# Cython generated C files and build directories
+cython_proof.c
+build/
+
+# Compiled Windows/Linux binaries & outputs
+*.pyd
+*.so
+bin/
+expected_output_*.txt
